@@ -1,0 +1,3525 @@
+              <tr role="row">
+                      <td>1</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/st-marys-ca.svg"><a href="/schools/st-marys-ca" class="school">Saint Mary's (CA)</a></td>
+                      <td>33</td>
+                      <td>1305</td>
+                      <td>39.5</td>
+                      <td>908</td>
+                      <td>27.5</td>
+                      <td>12</td>
+                  </tr>
+              <tr role="row">
+                      <td>2</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/purdue.svg"><a href="/schools/purdue" class="school">Purdue</a></td>
+                      <td>33</td>
+                      <td>1332</td>
+                      <td>40.4</td>
+                      <td>978</td>
+                      <td>29.6</td>
+                      <td>10</td>
+                  </tr>
+              <tr role="row">
+                      <td>3</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/arizona.svg"><a href="/schools/arizona" class="school">Arizona</a></td>
+                      <td>33</td>
+                      <td>1407</td>
+                      <td>42.6</td>
+                      <td>1058</td>
+                      <td>32.1</td>
+                      <td>10</td>
+                  </tr>
+              <tr role="row">
+                      <td>4</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/longwood.svg"><a href="/schools/longwood" class="school">Longwood</a></td>
+                      <td>34</td>
+                      <td>1325</td>
+                      <td>39.0</td>
+                      <td>1012</td>
+                      <td>29.8</td>
+                      <td>9</td>
+                  </tr>
+              <tr role="row">
+                      <td>5</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/high-point.svg"><a href="/schools/high-point" class="school">High Point</a></td>
+                      <td>33</td>
+                      <td>1323</td>
+                      <td>40.1</td>
+                      <td>1022</td>
+                      <td>31.0</td>
+                      <td>9</td>
+                  </tr>
+              <tr role="row">
+                      <td>6</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/morehead-st.svg"><a href="/schools/morehead-st" class="school">Morehead St.</a></td>
+                      <td>34</td>
+                      <td>1340</td>
+                      <td>39.4</td>
+                      <td>1036</td>
+                      <td>30.5</td>
+                      <td>8</td>
+                  </tr>
+              <tr role="row">
+                      <td>7</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/texas-am.svg"><a href="/schools/texas-am" class="school">Texas A&amp;M</a></td>
+                      <td>34</td>
+                      <td>1452</td>
+                      <td>42.7</td>
+                      <td>1149</td>
+                      <td>33.8</td>
+                      <td>8</td>
+                  </tr>
+              <tr role="row">
+                      <td>8</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/illinois.svg"><a href="/schools/illinois" class="school">Illinois</a></td>
+                      <td>34</td>
+                      <td>1405</td>
+                      <td>41.3</td>
+                      <td>1117</td>
+                      <td>32.9</td>
+                      <td>8</td>
+                  </tr>
+              <tr role="row">
+                      <td>9</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/towson.svg"><a href="/schools/towson" class="school">Towson</a></td>
+                      <td>34</td>
+                      <td>1337</td>
+                      <td>39.3</td>
+                      <td>1050</td>
+                      <td>30.9</td>
+                      <td>8</td>
+                  </tr>
+              <tr role="row">
+                      <td>10</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/uconn.svg"><a href="/schools/uconn" class="school">UConn</a></td>
+                      <td>34</td>
+                      <td>1308</td>
+                      <td>38.5</td>
+                      <td>1022</td>
+                      <td>30.1</td>
+                      <td>8</td>
+                  </tr>
+              <tr role="row">
+                      <td>11</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/western-ill.svg"><a href="/schools/western-ill" class="school">Western Ill.</a></td>
+                      <td>33</td>
+                      <td>1397</td>
+                      <td>42.3</td>
+                      <td>1121</td>
+                      <td>34.0</td>
+                      <td>8</td>
+                  </tr>
+              <tr role="row">
+                      <td>12</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/drexel.svg"><a href="/schools/drexel" class="school">Drexel</a></td>
+                      <td>32</td>
+                      <td>1253</td>
+                      <td>39.2</td>
+                      <td>999</td>
+                      <td>31.2</td>
+                      <td>7</td>
+                  </tr>
+              <tr role="row">
+                      <td>13</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/cincinnati.svg"><a href="/schools/cincinnati" class="school">Cincinnati</a></td>
+                      <td>34</td>
+                      <td>1344</td>
+                      <td>39.5</td>
+                      <td>1085</td>
+                      <td>31.9</td>
+                      <td>7</td>
+                  </tr>
+              <tr role="row">
+                      <td>14</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/umass-lowell.svg"><a href="/schools/umass-lowell" class="school">UMass Lowell</a></td>
+                      <td>32</td>
+                      <td>1305</td>
+                      <td>40.8</td>
+                      <td>1064</td>
+                      <td>33.2</td>
+                      <td>7</td>
+                  </tr>
+              <tr role="row">
+                      <td>15</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/colorado.svg"><a href="/schools/colorado" class="school">Colorado</a></td>
+                      <td>34</td>
+                      <td>1277</td>
+                      <td>37.6</td>
+                      <td>1023</td>
+                      <td>30.1</td>
+                      <td>7</td>
+                  </tr>
+              <tr role="row">
+                      <td>16</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/north-carolina.svg"><a href="/schools/north-carolina" class="school">North Carolina</a></td>
+                      <td>34</td>
+                      <td>1399</td>
+                      <td>41.1</td>
+                      <td>1146</td>
+                      <td>33.7</td>
+                      <td>7</td>
+                  </tr>
+              <tr role="row">
+                      <td>17</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/boise-st.svg"><a href="/schools/boise-st" class="school">Boise St.</a></td>
+                      <td>32</td>
+                      <td>1190</td>
+                      <td>37.2</td>
+                      <td>953</td>
+                      <td>29.8</td>
+                      <td>7</td>
+                  </tr>
+              <tr role="row">
+                      <td>18</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/gonzaga.svg"><a href="/schools/gonzaga" class="school">Gonzaga</a></td>
+                      <td>32</td>
+                      <td>1246</td>
+                      <td>38.9</td>
+                      <td>1011</td>
+                      <td>31.6</td>
+                      <td>7</td>
+                  </tr>
+              <tr role="row">
+                      <td>19</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/santa-clara.svg"><a href="/schools/santa-clara" class="school">Santa Clara</a></td>
+                      <td>33</td>
+                      <td>1296</td>
+                      <td>39.3</td>
+                      <td>1065</td>
+                      <td>32.3</td>
+                      <td>7</td>
+                  </tr>
+              <tr role="row">
+                      <td>20</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/florida.svg"><a href="/schools/florida" class="school">Florida</a></td>
+                      <td>35</td>
+                      <td>1494</td>
+                      <td>42.7</td>
+                      <td>1260</td>
+                      <td>36.0</td>
+                      <td>6</td>
+                  </tr>
+              <tr role="row">
+                      <td>21</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/am-corpus-chris.svg"><a href="/schools/am-corpus-chris" class="school">A&amp;M-Corpus Christi</a></td>
+                      <td>32</td>
+                      <td>1284</td>
+                      <td>40.1</td>
+                      <td>1071</td>
+                      <td>33.5</td>
+                      <td>6</td>
+                  </tr>
+              <tr role="row">
+                      <td>22</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/sacramento-st.svg"><a href="/schools/sacramento-st" class="school">Sacramento St.</a></td>
+                      <td>34</td>
+                      <td>1209</td>
+                      <td>35.6</td>
+                      <td>991</td>
+                      <td>29.1</td>
+                      <td>6</td>
+                  </tr>
+              <tr role="row">
+                      <td>23</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/jacksonville-st.svg"><a href="/schools/jacksonville-st" class="school">Jacksonville St.</a></td>
+                      <td>32</td>
+                      <td>1178</td>
+                      <td>36.8</td>
+                      <td>983</td>
+                      <td>30.7</td>
+                      <td>6</td>
+                  </tr>
+              <tr role="row">
+                      <td>24</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/byu.svg"><a href="/schools/byu" class="school">BYU</a></td>
+                      <td>33</td>
+                      <td>1308</td>
+                      <td>39.6</td>
+                      <td>1107</td>
+                      <td>33.5</td>
+                      <td>6</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/washington-st.svg"><a href="/schools/washington-st" class="school">Washington St.</a></td>
+                      <td>33</td>
+                      <td>1244</td>
+                      <td>37.7</td>
+                      <td>1043</td>
+                      <td>31.6</td>
+                      <td>6</td>
+                  </tr>
+              <tr role="row">
+                      <td>26</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/louisiana-tech.svg"><a href="/schools/louisiana-tech" class="school">Louisiana Tech</a></td>
+                      <td>32</td>
+                      <td>1244</td>
+                      <td>38.9</td>
+                      <td>1051</td>
+                      <td>32.8</td>
+                      <td>6</td>
+                  </tr>
+              <tr role="row">
+                      <td>27</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/baylor.svg"><a href="/schools/baylor" class="school">Baylor</a></td>
+                      <td>33</td>
+                      <td>1163</td>
+                      <td>35.2</td>
+                      <td>967</td>
+                      <td>29.3</td>
+                      <td>5</td>
+                  </tr>
+              <tr role="row">
+                      <td>28</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/mississippi-st.svg"><a href="/schools/mississippi-st" class="school">Mississippi St.</a></td>
+                      <td>34</td>
+                      <td>1304</td>
+                      <td>38.4</td>
+                      <td>1105</td>
+                      <td>32.5</td>
+                      <td>5</td>
+                  </tr>
+              <tr role="row">
+                      <td>29</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/appalachian-st.svg"><a href="/schools/appalachian-st" class="school">App State</a></td>
+                      <td>33</td>
+                      <td>1385</td>
+                      <td>42.0</td>
+                      <td>1197</td>
+                      <td>36.3</td>
+                      <td>5</td>
+                  </tr>
+              <tr role="row">
+                      <td>30</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/youngstown-st.svg"><a href="/schools/youngstown-st" class="school">Youngstown St.</a></td>
+                      <td>32</td>
+                      <td>1279</td>
+                      <td>40.0</td>
+                      <td>1097</td>
+                      <td>34.3</td>
+                      <td>5</td>
+                  </tr>
+              <tr role="row">
+                      <td>31</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/smu.svg"><a href="/schools/smu" class="school">SMU</a></td>
+                      <td>32</td>
+                      <td>1283</td>
+                      <td>40.1</td>
+                      <td>1110</td>
+                      <td>34.7</td>
+                      <td>5</td>
+                  </tr>
+              <tr role="row">
+                      <td>32</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/st-johns-ny.svg"><a href="/schools/st-johns-ny" class="school">St. John's (NY)</a></td>
+                      <td>33</td>
+                      <td>1279</td>
+                      <td>38.8</td>
+                      <td>1106</td>
+                      <td>33.5</td>
+                      <td>5</td>
+                  </tr>
+              <tr role="row">
+                      <td>33</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/binghamton.svg"><a href="/schools/binghamton" class="school">Binghamton</a></td>
+                      <td>30</td>
+                      <td>1156</td>
+                      <td>38.5</td>
+                      <td>999</td>
+                      <td>33.3</td>
+                      <td>5</td>
+                  </tr>
+              <tr role="row">
+                      <td>34</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/cal-st-northridge.svg"><a href="/schools/cal-st-northridge" class="school">CSUN</a></td>
+                      <td>34</td>
+                      <td>1362</td>
+                      <td>40.1</td>
+                      <td>1187</td>
+                      <td>34.9</td>
+                      <td>5</td>
+                  </tr>
+              <tr role="row">
+                      <td>35</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/grand-canyon.svg"><a href="/schools/grand-canyon" class="school">Grand Canyon</a></td>
+                      <td>33</td>
+                      <td>1260</td>
+                      <td>38.2</td>
+                      <td>1091</td>
+                      <td>33.1</td>
+                      <td>5</td>
+                  </tr>
+              <tr role="row">
+                      <td>36</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/james-madison.svg"><a href="/schools/james-madison" class="school">James Madison</a></td>
+                      <td>34</td>
+                      <td>1321</td>
+                      <td>38.9</td>
+                      <td>1148</td>
+                      <td>33.8</td>
+                      <td>5</td>
+                  </tr>
+              <tr role="row">
+                      <td>37</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/western-caro.svg"><a href="/schools/western-caro" class="school">Western Caro.</a></td>
+                      <td>32</td>
+                      <td>1269</td>
+                      <td>39.7</td>
+                      <td>1107</td>
+                      <td>34.6</td>
+                      <td>5</td>
+                  </tr>
+              <tr role="row">
+                      <td>38</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/california-baptist.svg"><a href="/schools/california-baptist" class="school">California Baptist</a></td>
+                      <td>33</td>
+                      <td>1241</td>
+                      <td>37.6</td>
+                      <td>1074</td>
+                      <td>32.5</td>
+                      <td>5</td>
+                  </tr>
+              <tr role="row">
+                      <td>39</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/duke.svg"><a href="/schools/duke" class="school">Duke</a></td>
+                      <td>32</td>
+                      <td>1169</td>
+                      <td>36.5</td>
+                      <td>1009</td>
+                      <td>31.5</td>
+                      <td>5</td>
+                  </tr>
+              <tr role="row">
+                      <td>40</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/uc-irvine.svg"><a href="/schools/uc-irvine" class="school">UC Irvine</a></td>
+                      <td>33</td>
+                      <td>1247</td>
+                      <td>37.8</td>
+                      <td>1084</td>
+                      <td>32.8</td>
+                      <td>4</td>
+                  </tr>
+              <tr role="row">
+                      <td>41</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/seton-hall.svg"><a href="/schools/seton-hall" class="school">Seton Hall</a></td>
+                      <td>32</td>
+                      <td>1192</td>
+                      <td>37.2</td>
+                      <td>1035</td>
+                      <td>32.3</td>
+                      <td>4</td>
+                  </tr>
+              <tr role="row">
+                      <td>42</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/missouri-st.svg"><a href="/schools/missouri-st" class="school">Missouri St.</a></td>
+                      <td>33</td>
+                      <td>1291</td>
+                      <td>39.1</td>
+                      <td>1131</td>
+                      <td>34.3</td>
+                      <td>4</td>
+                  </tr>
+              <tr role="row">
+                      <td>43</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/yale.svg"><a href="/schools/yale" class="school">Yale</a></td>
+                      <td>31</td>
+                      <td>1150</td>
+                      <td>37.1</td>
+                      <td>1002</td>
+                      <td>32.3</td>
+                      <td>4</td>
+                  </tr>
+              <tr role="row">
+                      <td>44</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/san-diego-st.svg"><a href="/schools/san-diego-st" class="school">San Diego St.</a></td>
+                      <td>34</td>
+                      <td>1295</td>
+                      <td>38.1</td>
+                      <td>1137</td>
+                      <td>33.4</td>
+                      <td>4</td>
+                  </tr>
+              <tr role="row">
+                      <td>45</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/akron.svg"><a href="/schools/akron" class="school">Akron</a></td>
+                      <td>34</td>
+                      <td>1252</td>
+                      <td>36.8</td>
+                      <td>1096</td>
+                      <td>32.2</td>
+                      <td>4</td>
+                  </tr>
+              <tr role="row">
+                      <td>46</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/jacksonville.svg"><a href="/schools/jacksonville" class="school">Jacksonville</a></td>
+                      <td>33</td>
+                      <td>1209</td>
+                      <td>36.6</td>
+                      <td>1059</td>
+                      <td>32.1</td>
+                      <td>4</td>
+                  </tr>
+              <tr role="row">
+                      <td>47</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/col-of-charleston.svg"><a href="/schools/col-of-charleston" class="school">Col. of Charleston</a></td>
+                      <td>34</td>
+                      <td>1350</td>
+                      <td>39.7</td>
+                      <td>1196</td>
+                      <td>35.2</td>
+                      <td>4</td>
+                  </tr>
+              <tr role="row">
+                      <td>48</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/tcu.svg"><a href="/schools/tcu" class="school">TCU</a></td>
+                      <td>33</td>
+                      <td>1222</td>
+                      <td>37.0</td>
+                      <td>1073</td>
+                      <td>32.5</td>
+                      <td>4</td>
+                  </tr>
+              <tr role="row">
+                      <td>49</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/creighton.svg"><a href="/schools/creighton" class="school">Creighton</a></td>
+                      <td>32</td>
+                      <td>1214</td>
+                      <td>37.9</td>
+                      <td>1071</td>
+                      <td>33.5</td>
+                      <td>4</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/george-mason.svg"><a href="/schools/george-mason" class="school">George Mason</a></td>
+                      <td>32</td>
+                      <td>1152</td>
+                      <td>36.0</td>
+                      <td>1009</td>
+                      <td>31.5</td>
+                      <td>4</td>
+                  </tr>
+          </tbody>
+<tbody aria-live="polite" aria-relevant="all">
+              <tr role="row">
+                      <td>51</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/alabama.svg"><a href="/schools/alabama" class="school">Alabama</a></td>
+                      <td>32</td>
+                      <td>1267</td>
+                      <td>39.6</td>
+                      <td>1125</td>
+                      <td>35.2</td>
+                      <td>4</td>
+                  </tr>
+              <tr role="row">
+                      <td>52</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/massachusetts.svg"><a href="/schools/massachusetts" class="school">Massachusetts</a></td>
+                      <td>31</td>
+                      <td>1188</td>
+                      <td>38.3</td>
+                      <td>1053</td>
+                      <td>34.0</td>
+                      <td>4</td>
+                  </tr>
+              <tr role="row">
+                      <td>53</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/new-mexico.svg"><a href="/schools/new-mexico" class="school">New Mexico</a></td>
+                      <td>35</td>
+                      <td>1387</td>
+                      <td>39.6</td>
+                      <td>1235</td>
+                      <td>35.3</td>
+                      <td>4</td>
+                  </tr>
+              <tr role="row">
+                      <td>54</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/fla-atlantic.svg"><a href="/schools/fla-atlantic" class="school">Fla. Atlantic</a></td>
+                      <td>33</td>
+                      <td>1256</td>
+                      <td>38.1</td>
+                      <td>1118</td>
+                      <td>33.9</td>
+                      <td>4</td>
+                  </tr>
+              <tr role="row">
+                      <td>55</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/troy.svg"><a href="/schools/troy" class="school">Troy</a></td>
+                      <td>32</td>
+                      <td>1230</td>
+                      <td>38.4</td>
+                      <td>1097</td>
+                      <td>34.3</td>
+                      <td>4</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/wofford.svg"><a href="/schools/wofford" class="school">Wofford</a></td>
+                      <td>32</td>
+                      <td>1190</td>
+                      <td>37.2</td>
+                      <td>1057</td>
+                      <td>33.0</td>
+                      <td>4</td>
+                  </tr>
+              <tr role="row">
+                      <td>57</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/south-carolina-st.svg"><a href="/schools/south-carolina-st" class="school">South Carolina St.</a></td>
+                      <td>32</td>
+                      <td>1203</td>
+                      <td>37.6</td>
+                      <td>1075</td>
+                      <td>33.6</td>
+                      <td>4</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/umkc.svg"><a href="/schools/umkc" class="school">Kansas City</a></td>
+                      <td>32</td>
+                      <td>1162</td>
+                      <td>36.3</td>
+                      <td>1034</td>
+                      <td>32.3</td>
+                      <td>4</td>
+                  </tr>
+              <tr role="row">
+                      <td>59</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/utah-st.svg"><a href="/schools/utah-st" class="school">Utah St.</a></td>
+                      <td>33</td>
+                      <td>1198</td>
+                      <td>36.3</td>
+                      <td>1067</td>
+                      <td>32.3</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>60</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/san-francisco.svg"><a href="/schools/san-francisco" class="school">San Francisco</a></td>
+                      <td>33</td>
+                      <td>1119</td>
+                      <td>33.9</td>
+                      <td>990</td>
+                      <td>30.0</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>61</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/wichita-st.svg"><a href="/schools/wichita-st" class="school">Wichita St.</a></td>
+                      <td>34</td>
+                      <td>1339</td>
+                      <td>39.4</td>
+                      <td>1207</td>
+                      <td>35.5</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/texas-arlington.svg"><a href="/schools/texas-arlington" class="school">UT Arlington</a></td>
+                      <td>34</td>
+                      <td>1275</td>
+                      <td>37.5</td>
+                      <td>1143</td>
+                      <td>33.6</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/indiana-st.svg"><a href="/schools/indiana-st" class="school">Indiana St.</a></td>
+                      <td>34</td>
+                      <td>1214</td>
+                      <td>35.7</td>
+                      <td>1082</td>
+                      <td>31.8</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>64</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/houston.svg"><a href="/schools/houston" class="school">Houston</a></td>
+                      <td>34</td>
+                      <td>1280</td>
+                      <td>37.6</td>
+                      <td>1150</td>
+                      <td>33.8</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>65</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/pittsburgh.svg"><a href="/schools/pittsburgh" class="school">Pittsburgh</a></td>
+                      <td>33</td>
+                      <td>1223</td>
+                      <td>37.1</td>
+                      <td>1100</td>
+                      <td>33.3</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>66</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/sam-houston-st.svg"><a href="/schools/sam-houston-st" class="school">Sam Houston</a></td>
+                      <td>33</td>
+                      <td>1255</td>
+                      <td>38.0</td>
+                      <td>1133</td>
+                      <td>34.3</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/seattle.svg"><a href="/schools/seattle" class="school">Seattle U</a></td>
+                      <td>33</td>
+                      <td>1212</td>
+                      <td>36.7</td>
+                      <td>1090</td>
+                      <td>33.0</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>68</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/oklahoma.svg"><a href="/schools/oklahoma" class="school">Oklahoma</a></td>
+                      <td>32</td>
+                      <td>1126</td>
+                      <td>35.2</td>
+                      <td>1009</td>
+                      <td>31.5</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>69</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/howard.svg"><a href="/schools/howard" class="school">Howard</a></td>
+                      <td>34</td>
+                      <td>1221</td>
+                      <td>35.9</td>
+                      <td>1097</td>
+                      <td>32.3</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>70</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/tennessee.svg"><a href="/schools/tennessee" class="school">Tennessee</a></td>
+                      <td>32</td>
+                      <td>1242</td>
+                      <td>38.8</td>
+                      <td>1127</td>
+                      <td>35.2</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>71</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/mcneese.svg"><a href="/schools/mcneese" class="school">McNeese</a></td>
+                      <td>33</td>
+                      <td>1192</td>
+                      <td>36.1</td>
+                      <td>1075</td>
+                      <td>32.6</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>72</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/eastern-ky.svg"><a href="/schools/eastern-ky" class="school">Eastern Ky.</a></td>
+                      <td>31</td>
+                      <td>1244</td>
+                      <td>40.1</td>
+                      <td>1135</td>
+                      <td>36.6</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>73</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/uab.svg"><a href="/schools/uab" class="school">UAB</a></td>
+                      <td>34</td>
+                      <td>1296</td>
+                      <td>38.1</td>
+                      <td>1180</td>
+                      <td>34.7</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>74</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/quinnipiac.svg"><a href="/schools/quinnipiac" class="school">Quinnipiac</a></td>
+                      <td>33</td>
+                      <td>1216</td>
+                      <td>36.8</td>
+                      <td>1104</td>
+                      <td>33.5</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>75</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/bowling-green.svg"><a href="/schools/bowling-green" class="school">Bowling Green</a></td>
+                      <td>33</td>
+                      <td>1259</td>
+                      <td>38.2</td>
+                      <td>1148</td>
+                      <td>34.8</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>76</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/auburn.svg"><a href="/schools/auburn" class="school">Auburn</a></td>
+                      <td>34</td>
+                      <td>1288</td>
+                      <td>37.9</td>
+                      <td>1176</td>
+                      <td>34.6</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>77</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/western-ky.svg"><a href="/schools/western-ky" class="school">Western Ky.</a></td>
+                      <td>33</td>
+                      <td>1314</td>
+                      <td>39.8</td>
+                      <td>1206</td>
+                      <td>36.5</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>78</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/clemson.svg"><a href="/schools/clemson" class="school">Clemson</a></td>
+                      <td>32</td>
+                      <td>1166</td>
+                      <td>36.4</td>
+                      <td>1063</td>
+                      <td>33.2</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>79</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/wisconsin.svg"><a href="/schools/wisconsin" class="school">Wisconsin</a></td>
+                      <td>35</td>
+                      <td>1188</td>
+                      <td>33.9</td>
+                      <td>1076</td>
+                      <td>30.7</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>80</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/south-carolina.svg"><a href="/schools/south-carolina" class="school">South Carolina</a></td>
+                      <td>33</td>
+                      <td>1184</td>
+                      <td>35.9</td>
+                      <td>1079</td>
+                      <td>32.7</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>81</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/loyola-chicago.svg"><a href="/schools/loyola-chicago" class="school">Loyola Chicago</a></td>
+                      <td>32</td>
+                      <td>1175</td>
+                      <td>36.7</td>
+                      <td>1075</td>
+                      <td>33.6</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>82</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/ut-martin.svg"><a href="/schools/ut-martin" class="school">UT Martin</a></td>
+                      <td>32</td>
+                      <td>1319</td>
+                      <td>41.2</td>
+                      <td>1220</td>
+                      <td>38.1</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/ucf.svg"><a href="/schools/ucf" class="school">UCF</a></td>
+                      <td>32</td>
+                      <td>1205</td>
+                      <td>37.7</td>
+                      <td>1106</td>
+                      <td>34.6</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>84</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/canisius.svg"><a href="/schools/canisius" class="school">Canisius</a></td>
+                      <td>32</td>
+                      <td>1181</td>
+                      <td>36.9</td>
+                      <td>1083</td>
+                      <td>33.8</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>85</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/long-beach-st.svg"><a href="/schools/long-beach-st" class="school">Long Beach St.</a></td>
+                      <td>35</td>
+                      <td>1349</td>
+                      <td>38.5</td>
+                      <td>1242</td>
+                      <td>35.5</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>86</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/milwaukee.svg"><a href="/schools/milwaukee" class="school">Milwaukee</a></td>
+                      <td>35</td>
+                      <td>1364</td>
+                      <td>39.0</td>
+                      <td>1258</td>
+                      <td>35.9</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>87</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/south-dakota.svg"><a href="/schools/south-dakota" class="school">South Dakota</a></td>
+                      <td>32</td>
+                      <td>1198</td>
+                      <td>37.4</td>
+                      <td>1102</td>
+                      <td>34.4</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/stephen-f-austin.svg"><a href="/schools/stephen-f-austin" class="school">SFA</a></td>
+                      <td>33</td>
+                      <td>1184</td>
+                      <td>35.9</td>
+                      <td>1085</td>
+                      <td>32.9</td>
+                      <td>3</td>
+                  </tr>
+              <tr role="row">
+                      <td>89</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/north-dakota.svg"><a href="/schools/north-dakota" class="school">North Dakota</a></td>
+                      <td>32</td>
+                      <td>1171</td>
+                      <td>36.6</td>
+                      <td>1077</td>
+                      <td>33.7</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>90</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/lamar.svg"><a href="/schools/lamar" class="school">Lamar University</a></td>
+                      <td>33</td>
+                      <td>1257</td>
+                      <td>38.1</td>
+                      <td>1161</td>
+                      <td>35.2</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/kansas-st.svg"><a href="/schools/kansas-st" class="school">Kansas St.</a></td>
+                      <td>33</td>
+                      <td>1237</td>
+                      <td>37.5</td>
+                      <td>1141</td>
+                      <td>34.6</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>92</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/colgate.svg"><a href="/schools/colgate" class="school">Colgate</a></td>
+                      <td>34</td>
+                      <td>1221</td>
+                      <td>35.9</td>
+                      <td>1123</td>
+                      <td>33.0</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>93</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/la-monroe.svg"><a href="/schools/la-monroe" class="school">ULM</a></td>
+                      <td>30</td>
+                      <td>1133</td>
+                      <td>37.8</td>
+                      <td>1047</td>
+                      <td>34.9</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>94</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/robert-morris.svg"><a href="/schools/robert-morris" class="school">Robert Morris</a></td>
+                      <td>32</td>
+                      <td>1159</td>
+                      <td>36.2</td>
+                      <td>1068</td>
+                      <td>33.4</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>95</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/uc-santa-barbara.svg"><a href="/schools/uc-santa-barbara" class="school">UC Santa Barbara</a></td>
+                      <td>31</td>
+                      <td>1081</td>
+                      <td>34.9</td>
+                      <td>993</td>
+                      <td>32.0</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>96</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/rider.svg"><a href="/schools/rider" class="school">Rider</a></td>
+                      <td>32</td>
+                      <td>1202</td>
+                      <td>37.6</td>
+                      <td>1112</td>
+                      <td>34.8</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>97</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/arkansas-st.svg"><a href="/schools/arkansas-st" class="school">Arkansas St.</a></td>
+                      <td>34</td>
+                      <td>1298</td>
+                      <td>38.2</td>
+                      <td>1204</td>
+                      <td>35.4</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>98</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/mt-st-marys.svg"><a href="/schools/mt-st-marys" class="school">Mount St. Mary's</a></td>
+                      <td>32</td>
+                      <td>1125</td>
+                      <td>35.2</td>
+                      <td>1037</td>
+                      <td>32.4</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>99</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/east-tenn-st.svg"><a href="/schools/east-tenn-st" class="school">ETSU</a></td>
+                      <td>35</td>
+                      <td>1350</td>
+                      <td>38.6</td>
+                      <td>1254</td>
+                      <td>35.8</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>100</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/utah.svg"><a href="/schools/utah" class="school">Utah</a></td>
+                      <td>33</td>
+                      <td>1287</td>
+                      <td>39.0</td>
+                      <td>1198</td>
+                      <td>36.3</td>
+                      <td>2</td>
+                  </tr>
+          </tbody>
+<tbody aria-live="polite" aria-relevant="all">
+              <tr role="row">
+                      <td>101</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/georgia-tech.svg"><a href="/schools/georgia-tech" class="school">Georgia Tech</a></td>
+                      <td>32</td>
+                      <td>1219</td>
+                      <td>38.1</td>
+                      <td>1133</td>
+                      <td>35.4</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>102</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/western-mich.svg"><a href="/schools/western-mich" class="school">Western Mich.</a></td>
+                      <td>32</td>
+                      <td>1212</td>
+                      <td>37.9</td>
+                      <td>1128</td>
+                      <td>35.2</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>103</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/brown.svg"><a href="/schools/brown" class="school">Brown</a></td>
+                      <td>31</td>
+                      <td>1154</td>
+                      <td>37.2</td>
+                      <td>1073</td>
+                      <td>34.6</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>104</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/st-peters.svg"><a href="/schools/st-peters" class="school">Saint Peter's</a></td>
+                      <td>32</td>
+                      <td>1140</td>
+                      <td>35.6</td>
+                      <td>1059</td>
+                      <td>33.1</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/northeastern.svg"><a href="/schools/northeastern" class="school">Northeastern</a></td>
+                      <td>32</td>
+                      <td>1062</td>
+                      <td>33.2</td>
+                      <td>981</td>
+                      <td>30.7</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>106</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/coastal-caro.svg"><a href="/schools/coastal-caro" class="school">Coastal Carolina</a></td>
+                      <td>31</td>
+                      <td>1250</td>
+                      <td>40.3</td>
+                      <td>1172</td>
+                      <td>37.8</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>107</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/vcu.svg"><a href="/schools/vcu" class="school">VCU</a></td>
+                      <td>35</td>
+                      <td>1234</td>
+                      <td>35.3</td>
+                      <td>1146</td>
+                      <td>32.7</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>108</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/delaware-st.svg"><a href="/schools/delaware-st" class="school">Delaware St.</a></td>
+                      <td>33</td>
+                      <td>1140</td>
+                      <td>34.5</td>
+                      <td>1059</td>
+                      <td>32.1</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>109</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/rhode-island.svg"><a href="/schools/rhode-island" class="school">Rhode Island</a></td>
+                      <td>32</td>
+                      <td>1178</td>
+                      <td>36.8</td>
+                      <td>1100</td>
+                      <td>34.4</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>110</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/ohio-st.svg"><a href="/schools/ohio-st" class="school">Ohio St.</a></td>
+                      <td>33</td>
+                      <td>1207</td>
+                      <td>36.6</td>
+                      <td>1127</td>
+                      <td>34.2</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>111</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/kansas.svg"><a href="/schools/kansas" class="school">Kansas</a></td>
+                      <td>32</td>
+                      <td>1151</td>
+                      <td>36.0</td>
+                      <td>1074</td>
+                      <td>33.6</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>112</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/loyola-marymount.svg"><a href="/schools/loyola-marymount" class="school">LMU (CA)</a></td>
+                      <td>31</td>
+                      <td>1082</td>
+                      <td>34.9</td>
+                      <td>1009</td>
+                      <td>32.5</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>113</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/eastern-wash.svg"><a href="/schools/eastern-wash" class="school">Eastern Wash.</a></td>
+                      <td>32</td>
+                      <td>1083</td>
+                      <td>33.8</td>
+                      <td>1009</td>
+                      <td>31.5</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>114</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/penn.svg"><a href="/schools/penn" class="school">Penn</a></td>
+                      <td>29</td>
+                      <td>1042</td>
+                      <td>35.9</td>
+                      <td>975</td>
+                      <td>33.6</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>115</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/ualr.svg"><a href="/schools/ualr" class="school">Little Rock</a></td>
+                      <td>33</td>
+                      <td>1210</td>
+                      <td>36.7</td>
+                      <td>1134</td>
+                      <td>34.4</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>116</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/columbia.svg"><a href="/schools/columbia" class="school">Columbia</a></td>
+                      <td>27</td>
+                      <td>964</td>
+                      <td>35.7</td>
+                      <td>902</td>
+                      <td>33.4</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>117</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/chattanooga.svg"><a href="/schools/chattanooga" class="school">Chattanooga</a></td>
+                      <td>33</td>
+                      <td>1206</td>
+                      <td>36.5</td>
+                      <td>1132</td>
+                      <td>34.3</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>118</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/north-dakota-st.svg"><a href="/schools/north-dakota-st" class="school">North Dakota St.</a></td>
+                      <td>32</td>
+                      <td>1097</td>
+                      <td>34.3</td>
+                      <td>1026</td>
+                      <td>32.1</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>119</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/north-texas.svg"><a href="/schools/north-texas" class="school">North Texas</a></td>
+                      <td>32</td>
+                      <td>1111</td>
+                      <td>34.7</td>
+                      <td>1041</td>
+                      <td>32.5</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/wright-st.svg"><a href="/schools/wright-st" class="school">Wright St.</a></td>
+                      <td>32</td>
+                      <td>1111</td>
+                      <td>34.7</td>
+                      <td>1041</td>
+                      <td>32.5</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>121</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/xavier.svg"><a href="/schools/xavier" class="school">Xavier</a></td>
+                      <td>33</td>
+                      <td>1257</td>
+                      <td>38.1</td>
+                      <td>1185</td>
+                      <td>35.9</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>122</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/utsa.svg"><a href="/schools/utsa" class="school">UTSA</a></td>
+                      <td>32</td>
+                      <td>1289</td>
+                      <td>40.3</td>
+                      <td>1221</td>
+                      <td>38.2</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>123</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/bradley.svg"><a href="/schools/bradley" class="school">Bradley</a></td>
+                      <td>33</td>
+                      <td>1148</td>
+                      <td>34.8</td>
+                      <td>1078</td>
+                      <td>32.7</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>124</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/minnesota.svg"><a href="/schools/minnesota" class="school">Minnesota</a></td>
+                      <td>32</td>
+                      <td>1119</td>
+                      <td>35.0</td>
+                      <td>1053</td>
+                      <td>32.9</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>125</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/boston-u.svg"><a href="/schools/boston-u" class="school">Boston U.</a></td>
+                      <td>33</td>
+                      <td>1167</td>
+                      <td>35.4</td>
+                      <td>1099</td>
+                      <td>33.3</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>126</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/hawaii.svg"><a href="/schools/hawaii" class="school">Hawaii</a></td>
+                      <td>34</td>
+                      <td>1155</td>
+                      <td>34.0</td>
+                      <td>1086</td>
+                      <td>31.9</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>127</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/american.svg"><a href="/schools/american" class="school">American</a></td>
+                      <td>32</td>
+                      <td>1043</td>
+                      <td>32.6</td>
+                      <td>979</td>
+                      <td>30.6</td>
+                      <td>2</td>
+                  </tr>
+              <tr role="row">
+                      <td>128</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/south-dakota-st.svg"><a href="/schools/south-dakota-st" class="school">South Dakota St.</a></td>
+                      <td>34</td>
+                      <td>1212</td>
+                      <td>35.6</td>
+                      <td>1145</td>
+                      <td>33.7</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>129</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/furman.svg"><a href="/schools/furman" class="school">Furman</a></td>
+                      <td>33</td>
+                      <td>1247</td>
+                      <td>37.8</td>
+                      <td>1183</td>
+                      <td>35.8</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>130</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/central-conn-st.svg"><a href="/schools/central-conn-st" class="school">Central Conn. St.</a></td>
+                      <td>31</td>
+                      <td>1111</td>
+                      <td>35.8</td>
+                      <td>1051</td>
+                      <td>33.9</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>131</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/idaho-st.svg"><a href="/schools/idaho-st" class="school">Idaho St.</a></td>
+                      <td>34</td>
+                      <td>1093</td>
+                      <td>32.1</td>
+                      <td>1029</td>
+                      <td>30.3</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>132</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/citadel.svg"><a href="/schools/citadel" class="school">The Citadel</a></td>
+                      <td>32</td>
+                      <td>1094</td>
+                      <td>34.2</td>
+                      <td>1034</td>
+                      <td>32.3</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>133</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/drake.svg"><a href="/schools/drake" class="school">Drake</a></td>
+                      <td>34</td>
+                      <td>1170</td>
+                      <td>34.4</td>
+                      <td>1107</td>
+                      <td>32.6</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>134</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/princeton.svg"><a href="/schools/princeton" class="school">Princeton</a></td>
+                      <td>28</td>
+                      <td>943</td>
+                      <td>33.7</td>
+                      <td>892</td>
+                      <td>31.9</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>135</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/alcorn.svg"><a href="/schools/alcorn" class="school">Alcorn</a></td>
+                      <td>32</td>
+                      <td>1086</td>
+                      <td>33.9</td>
+                      <td>1028</td>
+                      <td>32.1</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>136</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/gardner-webb.svg"><a href="/schools/gardner-webb" class="school">Gardner-Webb</a></td>
+                      <td>33</td>
+                      <td>1260</td>
+                      <td>38.2</td>
+                      <td>1201</td>
+                      <td>36.4</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>137</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/texas-st.svg"><a href="/schools/texas-st" class="school">Texas St.</a></td>
+                      <td>35</td>
+                      <td>1243</td>
+                      <td>35.5</td>
+                      <td>1182</td>
+                      <td>33.8</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>138</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/montana.svg"><a href="/schools/montana" class="school">Montana</a></td>
+                      <td>34</td>
+                      <td>1155</td>
+                      <td>34.0</td>
+                      <td>1096</td>
+                      <td>32.2</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>139</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/nevada.svg"><a href="/schools/nevada" class="school">Nevada</a></td>
+                      <td>33</td>
+                      <td>1137</td>
+                      <td>34.5</td>
+                      <td>1080</td>
+                      <td>32.7</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>140</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/fgcu.svg"><a href="/schools/fgcu" class="school">FGCU</a></td>
+                      <td>32</td>
+                      <td>1098</td>
+                      <td>34.3</td>
+                      <td>1043</td>
+                      <td>32.6</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>141</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/notre-dame.svg"><a href="/schools/notre-dame" class="school">Notre Dame</a></td>
+                      <td>33</td>
+                      <td>1185</td>
+                      <td>35.9</td>
+                      <td>1129</td>
+                      <td>34.2</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>142</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/oakland.svg"><a href="/schools/oakland" class="school">Oakland</a></td>
+                      <td>34</td>
+                      <td>1218</td>
+                      <td>35.8</td>
+                      <td>1163</td>
+                      <td>34.2</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>143</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/unc-greensboro.svg"><a href="/schools/unc-greensboro" class="school">UNC Greensboro</a></td>
+                      <td>32</td>
+                      <td>1133</td>
+                      <td>35.4</td>
+                      <td>1083</td>
+                      <td>33.8</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/illinois-st.svg"><a href="/schools/illinois-st" class="school">Illinois St.</a></td>
+                      <td>32</td>
+                      <td>1114</td>
+                      <td>34.8</td>
+                      <td>1064</td>
+                      <td>33.2</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>145</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/wagner.svg"><a href="/schools/wagner" class="school">Wagner</a></td>
+                      <td>31</td>
+                      <td>1131</td>
+                      <td>36.5</td>
+                      <td>1083</td>
+                      <td>34.9</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>146</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/loyola-maryland.svg"><a href="/schools/loyola-maryland" class="school">Loyola Maryland</a></td>
+                      <td>32</td>
+                      <td>1097</td>
+                      <td>34.3</td>
+                      <td>1049</td>
+                      <td>32.8</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>147</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/wake-forest.svg"><a href="/schools/wake-forest" class="school">Wake Forest</a></td>
+                      <td>33</td>
+                      <td>1122</td>
+                      <td>34.0</td>
+                      <td>1073</td>
+                      <td>32.5</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>148</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/winthrop.svg"><a href="/schools/winthrop" class="school">Winthrop</a></td>
+                      <td>32</td>
+                      <td>1134</td>
+                      <td>35.4</td>
+                      <td>1088</td>
+                      <td>34.0</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/southeastern-la.svg"><a href="/schools/southeastern-la" class="school">Southeastern La.</a></td>
+                      <td>32</td>
+                      <td>1120</td>
+                      <td>35.0</td>
+                      <td>1074</td>
+                      <td>33.6</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>150</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/liberty.svg"><a href="/schools/liberty" class="school">Liberty</a></td>
+                      <td>32</td>
+                      <td>1087</td>
+                      <td>34.0</td>
+                      <td>1042</td>
+                      <td>32.6</td>
+                      <td>1</td>
+                  </tr>
+          </tbody>
+<tbody aria-live="polite" aria-relevant="all">
+              <tr role="row">
+                      <td>151</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/uc-riverside.svg"><a href="/schools/uc-riverside" class="school">UC Riverside</a></td>
+                      <td>34</td>
+                      <td>1256</td>
+                      <td>36.9</td>
+                      <td>1209</td>
+                      <td>35.6</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>152</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/kent-st.svg"><a href="/schools/kent-st" class="school">Kent St.</a></td>
+                      <td>34</td>
+                      <td>1178</td>
+                      <td>34.6</td>
+                      <td>1132</td>
+                      <td>33.3</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>153</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/delaware.svg"><a href="/schools/delaware" class="school">Delaware</a></td>
+                      <td>33</td>
+                      <td>1178</td>
+                      <td>35.7</td>
+                      <td>1136</td>
+                      <td>34.4</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>154</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/ucla.svg"><a href="/schools/ucla" class="school">UCLA</a></td>
+                      <td>33</td>
+                      <td>1115</td>
+                      <td>33.8</td>
+                      <td>1074</td>
+                      <td>32.5</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>155</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/ball-st.svg"><a href="/schools/ball-st" class="school">Ball St.</a></td>
+                      <td>31</td>
+                      <td>1082</td>
+                      <td>34.9</td>
+                      <td>1044</td>
+                      <td>33.7</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>156</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/bakersfield.svg"><a href="/schools/bakersfield" class="school">CSU Bakersfield</a></td>
+                      <td>32</td>
+                      <td>1109</td>
+                      <td>34.7</td>
+                      <td>1070</td>
+                      <td>33.4</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>157</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/texas-tech.svg"><a href="/schools/texas-tech" class="school">Texas Tech</a></td>
+                      <td>33</td>
+                      <td>1155</td>
+                      <td>35.0</td>
+                      <td>1115</td>
+                      <td>33.8</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>158</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/vermont.svg"><a href="/schools/vermont" class="school">Vermont</a></td>
+                      <td>34</td>
+                      <td>1186</td>
+                      <td>34.9</td>
+                      <td>1145</td>
+                      <td>33.7</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>159</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/norfolk-st.svg"><a href="/schools/norfolk-st" class="school">Norfolk St.</a></td>
+                      <td>33</td>
+                      <td>1131</td>
+                      <td>34.3</td>
+                      <td>1094</td>
+                      <td>33.2</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>160</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/fordham.svg"><a href="/schools/fordham" class="school">Fordham</a></td>
+                      <td>33</td>
+                      <td>1225</td>
+                      <td>37.1</td>
+                      <td>1189</td>
+                      <td>36.0</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>161</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/uiw.svg"><a href="/schools/uiw" class="school">UIW</a></td>
+                      <td>31</td>
+                      <td>1133</td>
+                      <td>36.5</td>
+                      <td>1100</td>
+                      <td>35.5</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>162</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/wyoming.svg"><a href="/schools/wyoming" class="school">Wyoming</a></td>
+                      <td>32</td>
+                      <td>1103</td>
+                      <td>34.5</td>
+                      <td>1069</td>
+                      <td>33.4</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>163</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/pepperdine.svg"><a href="/schools/pepperdine" class="school">Pepperdine</a></td>
+                      <td>33</td>
+                      <td>1115</td>
+                      <td>33.8</td>
+                      <td>1080</td>
+                      <td>32.7</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>164</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/jackson-st.svg"><a href="/schools/jackson-st" class="school">Jackson St.</a></td>
+                      <td>32</td>
+                      <td>1161</td>
+                      <td>36.3</td>
+                      <td>1129</td>
+                      <td>35.3</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/siena.svg"><a href="/schools/siena" class="school">Siena</a></td>
+                      <td>32</td>
+                      <td>1132</td>
+                      <td>35.4</td>
+                      <td>1100</td>
+                      <td>34.4</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/texas.svg"><a href="/schools/texas" class="school">Texas</a></td>
+                      <td>32</td>
+                      <td>1106</td>
+                      <td>34.6</td>
+                      <td>1074</td>
+                      <td>33.6</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/southern-ill.svg"><a href="/schools/southern-ill" class="school">Southern Ill.</a></td>
+                      <td>32</td>
+                      <td>1055</td>
+                      <td>33.0</td>
+                      <td>1023</td>
+                      <td>32.0</td>
+                      <td>1</td>
+                  </tr>
+              <tr role="row">
+                      <td>168</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/maryland.svg"><a href="/schools/maryland" class="school">Maryland</a></td>
+                      <td>33</td>
+                      <td>1179</td>
+                      <td>35.7</td>
+                      <td>1147</td>
+                      <td>34.8</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>169</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/utah-valley.svg"><a href="/schools/utah-valley" class="school">Utah Valley</a></td>
+                      <td>32</td>
+                      <td>1179</td>
+                      <td>36.8</td>
+                      <td>1148</td>
+                      <td>35.9</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>170</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/dayton.svg"><a href="/schools/dayton" class="school">Dayton</a></td>
+                      <td>31</td>
+                      <td>1046</td>
+                      <td>33.7</td>
+                      <td>1016</td>
+                      <td>32.8</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>171</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/duquesne.svg"><a href="/schools/duquesne" class="school">Duquesne</a></td>
+                      <td>35</td>
+                      <td>1231</td>
+                      <td>35.2</td>
+                      <td>1198</td>
+                      <td>34.2</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>172</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/iowa-st.svg"><a href="/schools/iowa-st" class="school">Iowa St.</a></td>
+                      <td>34</td>
+                      <td>1157</td>
+                      <td>34.0</td>
+                      <td>1125</td>
+                      <td>33.1</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>173</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/miami-fl.svg"><a href="/schools/miami-fl" class="school">Miami (FL)</a></td>
+                      <td>32</td>
+                      <td>1174</td>
+                      <td>36.7</td>
+                      <td>1144</td>
+                      <td>35.8</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>174</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/providence.svg"><a href="/schools/providence" class="school">Providence</a></td>
+                      <td>34</td>
+                      <td>1226</td>
+                      <td>36.1</td>
+                      <td>1195</td>
+                      <td>35.1</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/saint-josephs.svg"><a href="/schools/saint-josephs" class="school">Saint Joseph's</a></td>
+                      <td>34</td>
+                      <td>1218</td>
+                      <td>35.8</td>
+                      <td>1187</td>
+                      <td>34.9</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>176</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/villanova.svg"><a href="/schools/villanova" class="school">Villanova</a></td>
+                      <td>33</td>
+                      <td>1152</td>
+                      <td>34.9</td>
+                      <td>1123</td>
+                      <td>34.0</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>177</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/michigan-st.svg"><a href="/schools/michigan-st" class="school">Michigan St.</a></td>
+                      <td>33</td>
+                      <td>1143</td>
+                      <td>34.6</td>
+                      <td>1115</td>
+                      <td>33.8</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>178</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/kentucky.svg"><a href="/schools/kentucky" class="school">Kentucky</a></td>
+                      <td>32</td>
+                      <td>1202</td>
+                      <td>37.6</td>
+                      <td>1175</td>
+                      <td>36.7</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>179</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/st-bonaventure.svg"><a href="/schools/st-bonaventure" class="school">St. Bonaventure</a></td>
+                      <td>33</td>
+                      <td>1087</td>
+                      <td>32.9</td>
+                      <td>1060</td>
+                      <td>32.1</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>180</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/california.svg"><a href="/schools/california" class="school">California</a></td>
+                      <td>32</td>
+                      <td>1189</td>
+                      <td>37.2</td>
+                      <td>1164</td>
+                      <td>36.4</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>181</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/boston-college.svg"><a href="/schools/boston-college" class="school">Boston College</a></td>
+                      <td>34</td>
+                      <td>1198</td>
+                      <td>35.2</td>
+                      <td>1172</td>
+                      <td>34.5</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>182</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/siu-edwardsville.svg"><a href="/schools/siu-edwardsville" class="school">SIUE</a></td>
+                      <td>33</td>
+                      <td>1175</td>
+                      <td>35.6</td>
+                      <td>1150</td>
+                      <td>34.8</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/uni.svg"><a href="/schools/uni" class="school">UNI</a></td>
+                      <td>33</td>
+                      <td>1117</td>
+                      <td>33.8</td>
+                      <td>1092</td>
+                      <td>33.1</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>184</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/nebraska.svg"><a href="/schools/nebraska" class="school">Nebraska</a></td>
+                      <td>33</td>
+                      <td>1252</td>
+                      <td>37.9</td>
+                      <td>1228</td>
+                      <td>37.2</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>185</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/lsu.svg"><a href="/schools/lsu" class="school">LSU</a></td>
+                      <td>32</td>
+                      <td>1145</td>
+                      <td>35.8</td>
+                      <td>1123</td>
+                      <td>35.1</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>186</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/northern-colo.svg"><a href="/schools/northern-colo" class="school">Northern Colo.</a></td>
+                      <td>32</td>
+                      <td>1112</td>
+                      <td>34.8</td>
+                      <td>1094</td>
+                      <td>34.2</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>187</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/michigan.svg"><a href="/schools/michigan" class="school">Michigan</a></td>
+                      <td>32</td>
+                      <td>1134</td>
+                      <td>35.4</td>
+                      <td>1117</td>
+                      <td>34.9</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>188</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/stetson.svg"><a href="/schools/stetson" class="school">Stetson</a></td>
+                      <td>34</td>
+                      <td>1186</td>
+                      <td>34.9</td>
+                      <td>1169</td>
+                      <td>34.4</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/memphis.svg"><a href="/schools/memphis" class="school">Memphis</a></td>
+                      <td>32</td>
+                      <td>1185</td>
+                      <td>37.0</td>
+                      <td>1169</td>
+                      <td>36.5</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/green-bay.svg"><a href="/schools/green-bay" class="school">Green Bay</a></td>
+                      <td>32</td>
+                      <td>1061</td>
+                      <td>33.2</td>
+                      <td>1045</td>
+                      <td>32.7</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>191</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/oregon.svg"><a href="/schools/oregon" class="school">Oregon</a></td>
+                      <td>34</td>
+                      <td>1163</td>
+                      <td>34.2</td>
+                      <td>1147</td>
+                      <td>33.7</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>192</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/st-francis-pa.svg"><a href="/schools/st-francis-pa" class="school">Saint Francis (PA)</a></td>
+                      <td>30</td>
+                      <td>1038</td>
+                      <td>34.6</td>
+                      <td>1024</td>
+                      <td>34.1</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>193</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/cornell.svg"><a href="/schools/cornell" class="school">Cornell</a></td>
+                      <td>29</td>
+                      <td>1031</td>
+                      <td>35.6</td>
+                      <td>1018</td>
+                      <td>35.1</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>194</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/marshall.svg"><a href="/schools/marshall" class="school">Marshall</a></td>
+                      <td>33</td>
+                      <td>1303</td>
+                      <td>39.5</td>
+                      <td>1290</td>
+                      <td>39.1</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/east-carolina.svg"><a href="/schools/east-carolina" class="school">East Carolina</a></td>
+                      <td>33</td>
+                      <td>1154</td>
+                      <td>35.0</td>
+                      <td>1141</td>
+                      <td>34.6</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>196</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/virginia-tech.svg"><a href="/schools/virginia-tech" class="school">Virginia Tech</a></td>
+                      <td>32</td>
+                      <td>1026</td>
+                      <td>32.1</td>
+                      <td>1016</td>
+                      <td>31.8</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>197</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/unlv.svg"><a href="/schools/unlv" class="school">UNLV</a></td>
+                      <td>31</td>
+                      <td>1064</td>
+                      <td>34.3</td>
+                      <td>1056</td>
+                      <td>34.1</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>198</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/samford.svg"><a href="/schools/samford" class="school">Samford</a></td>
+                      <td>34</td>
+                      <td>1217</td>
+                      <td>35.8</td>
+                      <td>1211</td>
+                      <td>35.6</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>199</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/alabama-st.svg"><a href="/schools/alabama-st" class="school">Alabama St.</a></td>
+                      <td>32</td>
+                      <td>1265</td>
+                      <td>39.5</td>
+                      <td>1260</td>
+                      <td>39.4</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/southern-miss.svg"><a href="/schools/southern-miss" class="school">Southern Miss.</a></td>
+                      <td>32</td>
+                      <td>1177</td>
+                      <td>36.8</td>
+                      <td>1172</td>
+                      <td>36.6</td>
+                      <td>0</td>
+                  </tr>
+          </tbody>
+<tbody aria-live="polite" aria-relevant="all">
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/toledo.svg"><a href="/schools/toledo" class="school">Toledo</a></td>
+                      <td>32</td>
+                      <td>1081</td>
+                      <td>33.8</td>
+                      <td>1076</td>
+                      <td>33.6</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>202</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/kennesaw-st.svg"><a href="/schools/kennesaw-st" class="school">Kennesaw St.</a></td>
+                      <td>31</td>
+                      <td>1204</td>
+                      <td>38.8</td>
+                      <td>1201</td>
+                      <td>38.7</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>203</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/georgetown.svg"><a href="/schools/georgetown" class="school">Georgetown</a></td>
+                      <td>32</td>
+                      <td>1090</td>
+                      <td>34.1</td>
+                      <td>1087</td>
+                      <td>34.0</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>204</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/army.svg"><a href="/schools/army" class="school">Army West Point</a></td>
+                      <td>32</td>
+                      <td>1088</td>
+                      <td>34.0</td>
+                      <td>1086</td>
+                      <td>33.9</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>205</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/nc-central.svg"><a href="/schools/nc-central" class="school">N.C. Central</a></td>
+                      <td>31</td>
+                      <td>1097</td>
+                      <td>35.4</td>
+                      <td>1096</td>
+                      <td>35.4</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>206</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/albany-ny.svg"><a href="/schools/albany-ny" class="school">UAlbany</a></td>
+                      <td>32</td>
+                      <td>1153</td>
+                      <td>36.0</td>
+                      <td>1152</td>
+                      <td>36.0</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>207</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/colorado-st.svg"><a href="/schools/colorado-st" class="school">Colorado St.</a></td>
+                      <td>34</td>
+                      <td>1118</td>
+                      <td>32.9</td>
+                      <td>1119</td>
+                      <td>32.9</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>208</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/portland-st.svg"><a href="/schools/portland-st" class="school">Portland St.</a></td>
+                      <td>32</td>
+                      <td>1181</td>
+                      <td>36.9</td>
+                      <td>1182</td>
+                      <td>36.9</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>209</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/indiana.svg"><a href="/schools/indiana" class="school">Indiana</a></td>
+                      <td>33</td>
+                      <td>1154</td>
+                      <td>35.0</td>
+                      <td>1156</td>
+                      <td>35.0</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>210</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/north-ala.svg"><a href="/schools/north-ala" class="school">North Ala.</a></td>
+                      <td>32</td>
+                      <td>1132</td>
+                      <td>35.4</td>
+                      <td>1135</td>
+                      <td>35.5</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>211</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/neb-omaha.svg"><a href="/schools/neb-omaha" class="school">Omaha</a></td>
+                      <td>33</td>
+                      <td>1111</td>
+                      <td>33.7</td>
+                      <td>1115</td>
+                      <td>33.8</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>212</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/rice.svg"><a href="/schools/rice" class="school">Rice</a></td>
+                      <td>32</td>
+                      <td>1134</td>
+                      <td>35.4</td>
+                      <td>1138</td>
+                      <td>35.6</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/eastern-ill.svg"><a href="/schools/eastern-ill" class="school">Eastern Ill.</a></td>
+                      <td>32</td>
+                      <td>1131</td>
+                      <td>35.3</td>
+                      <td>1135</td>
+                      <td>35.5</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/weber-st.svg"><a href="/schools/weber-st" class="school">Weber St.</a></td>
+                      <td>32</td>
+                      <td>1025</td>
+                      <td>32.0</td>
+                      <td>1029</td>
+                      <td>32.2</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>215</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/washington.svg"><a href="/schools/washington" class="school">Washington</a></td>
+                      <td>32</td>
+                      <td>1151</td>
+                      <td>36.0</td>
+                      <td>1157</td>
+                      <td>36.2</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>216</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/louisville.svg"><a href="/schools/louisville" class="school">Louisville</a></td>
+                      <td>32</td>
+                      <td>1100</td>
+                      <td>34.4</td>
+                      <td>1109</td>
+                      <td>34.7</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/oklahoma-st.svg"><a href="/schools/oklahoma-st" class="school">Oklahoma St.</a></td>
+                      <td>32</td>
+                      <td>1078</td>
+                      <td>33.7</td>
+                      <td>1087</td>
+                      <td>34.0</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>218</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/presbyterian.svg"><a href="/schools/presbyterian" class="school">Presbyterian</a></td>
+                      <td>32</td>
+                      <td>1064</td>
+                      <td>33.2</td>
+                      <td>1074</td>
+                      <td>33.6</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>219</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/unc-wilmington.svg"><a href="/schools/unc-wilmington" class="school">UNCW</a></td>
+                      <td>31</td>
+                      <td>1066</td>
+                      <td>34.4</td>
+                      <td>1076</td>
+                      <td>34.7</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>220</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/hampton.svg"><a href="/schools/hampton" class="school">Hampton</a></td>
+                      <td>33</td>
+                      <td>1221</td>
+                      <td>37.0</td>
+                      <td>1233</td>
+                      <td>37.4</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>221</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/navy.svg"><a href="/schools/navy" class="school">Navy</a></td>
+                      <td>31</td>
+                      <td>1104</td>
+                      <td>35.6</td>
+                      <td>1116</td>
+                      <td>36.0</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>222</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/uc-davis.svg"><a href="/schools/uc-davis" class="school">UC Davis</a></td>
+                      <td>33</td>
+                      <td>1102</td>
+                      <td>33.4</td>
+                      <td>1115</td>
+                      <td>33.8</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>223</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/lehigh.svg"><a href="/schools/lehigh" class="school">Lehigh</a></td>
+                      <td>32</td>
+                      <td>1137</td>
+                      <td>35.5</td>
+                      <td>1150</td>
+                      <td>35.9</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>224</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/charlotte.svg"><a href="/schools/charlotte" class="school">Charlotte</a></td>
+                      <td>31</td>
+                      <td>1006</td>
+                      <td>32.5</td>
+                      <td>1020</td>
+                      <td>32.9</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>225</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/radford.svg"><a href="/schools/radford" class="school">Radford</a></td>
+                      <td>33</td>
+                      <td>1143</td>
+                      <td>34.6</td>
+                      <td>1158</td>
+                      <td>35.1</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>226</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/murray-st.svg"><a href="/schools/murray-st" class="school">Murray St.</a></td>
+                      <td>32</td>
+                      <td>1048</td>
+                      <td>32.8</td>
+                      <td>1063</td>
+                      <td>33.2</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>227</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/stony-brook.svg"><a href="/schools/stony-brook" class="school">Stony Brook</a></td>
+                      <td>35</td>
+                      <td>1280</td>
+                      <td>36.6</td>
+                      <td>1299</td>
+                      <td>37.1</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>228</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/davidson.svg"><a href="/schools/davidson" class="school">Davidson</a></td>
+                      <td>32</td>
+                      <td>1109</td>
+                      <td>34.7</td>
+                      <td>1128</td>
+                      <td>35.2</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>229</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/charleston-so.svg"><a href="/schools/charleston-so" class="school">Charleston So.</a></td>
+                      <td>30</td>
+                      <td>1066</td>
+                      <td>35.5</td>
+                      <td>1085</td>
+                      <td>36.2</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>230</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/alabama-am.svg"><a href="/schools/alabama-am" class="school">Alabama A&amp;M</a></td>
+                      <td>33</td>
+                      <td>1170</td>
+                      <td>35.5</td>
+                      <td>1191</td>
+                      <td>36.1</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>231</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/unc-asheville.svg"><a href="/schools/unc-asheville" class="school">UNC Asheville</a></td>
+                      <td>34</td>
+                      <td>1182</td>
+                      <td>34.8</td>
+                      <td>1204</td>
+                      <td>35.4</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>232</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/mercer.svg"><a href="/schools/mercer" class="school">Mercer</a></td>
+                      <td>33</td>
+                      <td>1132</td>
+                      <td>34.3</td>
+                      <td>1155</td>
+                      <td>35.0</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>233</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/george-washington.svg"><a href="/schools/george-washington" class="school">George Washington</a></td>
+                      <td>32</td>
+                      <td>1180</td>
+                      <td>36.9</td>
+                      <td>1203</td>
+                      <td>37.6</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>234</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/south-fla.svg"><a href="/schools/south-fla" class="school">South Fla.</a></td>
+                      <td>31</td>
+                      <td>1117</td>
+                      <td>36.0</td>
+                      <td>1142</td>
+                      <td>36.8</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>235</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/central-ark.svg"><a href="/schools/central-ark" class="school">Central Ark.</a></td>
+                      <td>32</td>
+                      <td>1165</td>
+                      <td>36.4</td>
+                      <td>1191</td>
+                      <td>37.2</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>236</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/butler.svg"><a href="/schools/butler" class="school">Butler</a></td>
+                      <td>32</td>
+                      <td>1128</td>
+                      <td>35.2</td>
+                      <td>1155</td>
+                      <td>36.1</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>237</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/tennessee-st.svg"><a href="/schools/tennessee-st" class="school">Tennessee St.</a></td>
+                      <td>33</td>
+                      <td>1144</td>
+                      <td>34.7</td>
+                      <td>1173</td>
+                      <td>35.5</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>238</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/texas-southern.svg"><a href="/schools/texas-southern" class="school">Texas Southern</a></td>
+                      <td>32</td>
+                      <td>1132</td>
+                      <td>35.4</td>
+                      <td>1161</td>
+                      <td>36.3</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>239</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/william-mary.svg"><a href="/schools/william-mary" class="school">William &amp; Mary</a></td>
+                      <td>33</td>
+                      <td>1161</td>
+                      <td>35.2</td>
+                      <td>1192</td>
+                      <td>36.1</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>240</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/northern-ill.svg"><a href="/schools/northern-ill" class="school">NIU</a></td>
+                      <td>31</td>
+                      <td>1111</td>
+                      <td>35.8</td>
+                      <td>1141</td>
+                      <td>36.8</td>
+                      <td>0</td>
+                  </tr>
+              <tr role="row">
+                      <td>241</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/grambling.svg"><a href="/schools/grambling" class="school">Grambling</a></td>
+                      <td>34</td>
+                      <td>1094</td>
+                      <td>32.2</td>
+                      <td>1128</td>
+                      <td>33.2</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>242</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/austin-peay.svg"><a href="/schools/austin-peay" class="school">Austin Peay</a></td>
+                      <td>34</td>
+                      <td>1159</td>
+                      <td>34.1</td>
+                      <td>1194</td>
+                      <td>35.1</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>243</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/niagara.svg"><a href="/schools/niagara" class="school">Niagara</a></td>
+                      <td>32</td>
+                      <td>975</td>
+                      <td>30.5</td>
+                      <td>1008</td>
+                      <td>31.5</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>244</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/georgia-st.svg"><a href="/schools/georgia-st" class="school">Georgia St.</a></td>
+                      <td>31</td>
+                      <td>1160</td>
+                      <td>37.4</td>
+                      <td>1193</td>
+                      <td>38.5</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/marist.svg"><a href="/schools/marist" class="school">Marist</a></td>
+                      <td>31</td>
+                      <td>996</td>
+                      <td>32.1</td>
+                      <td>1029</td>
+                      <td>33.2</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>246</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/la-lafayette.svg"><a href="/schools/la-lafayette" class="school">Louisiana</a></td>
+                      <td>33</td>
+                      <td>1133</td>
+                      <td>34.3</td>
+                      <td>1170</td>
+                      <td>35.5</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>247</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/houston-baptist.svg"><a href="/schools/houston-baptist" class="school">Houston Christian</a></td>
+                      <td>29</td>
+                      <td>1076</td>
+                      <td>37.1</td>
+                      <td>1109</td>
+                      <td>38.2</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>248</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/north-carolina-st.svg"><a href="/schools/north-carolina-st" class="school">NC State</a></td>
+                      <td>36</td>
+                      <td>1259</td>
+                      <td>35.0</td>
+                      <td>1300</td>
+                      <td>36.1</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>249</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/denver.svg"><a href="/schools/denver" class="school">Denver</a></td>
+                      <td>34</td>
+                      <td>1213</td>
+                      <td>35.7</td>
+                      <td>1252</td>
+                      <td>36.8</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>250</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/fairfield.svg"><a href="/schools/fairfield" class="school">Fairfield</a></td>
+                      <td>34</td>
+                      <td>1153</td>
+                      <td>33.9</td>
+                      <td>1193</td>
+                      <td>35.1</td>
+                      <td>-1</td>
+                  </tr>
+          </tbody>
+<tbody aria-live="polite" aria-relevant="all">
+              <tr role="row">
+                      <td>251</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/bucknell.svg"><a href="/schools/bucknell" class="school">Bucknell</a></td>
+                      <td>33</td>
+                      <td>1073</td>
+                      <td>32.5</td>
+                      <td>1112</td>
+                      <td>33.7</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>252</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/cleveland-st.svg"><a href="/schools/cleveland-st" class="school">Cleveland St.</a></td>
+                      <td>34</td>
+                      <td>1195</td>
+                      <td>35.1</td>
+                      <td>1236</td>
+                      <td>36.4</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>253</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/stanford.svg"><a href="/schools/stanford" class="school">Stanford</a></td>
+                      <td>32</td>
+                      <td>1097</td>
+                      <td>34.3</td>
+                      <td>1140</td>
+                      <td>35.6</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>254</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/utep.svg"><a href="/schools/utep" class="school">UTEP</a></td>
+                      <td>34</td>
+                      <td>1124</td>
+                      <td>33.1</td>
+                      <td>1170</td>
+                      <td>34.4</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>255</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/ohio.svg"><a href="/schools/ohio" class="school">Ohio</a></td>
+                      <td>33</td>
+                      <td>1153</td>
+                      <td>34.9</td>
+                      <td>1198</td>
+                      <td>36.3</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/evansville.svg"><a href="/schools/evansville" class="school">Evansville</a></td>
+                      <td>33</td>
+                      <td>1121</td>
+                      <td>34.0</td>
+                      <td>1166</td>
+                      <td>35.3</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>257</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/chicago-st.svg"><a href="/schools/chicago-st" class="school">Chicago St.</a></td>
+                      <td>30</td>
+                      <td>1010</td>
+                      <td>33.7</td>
+                      <td>1051</td>
+                      <td>35.0</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>258</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/central-mich.svg"><a href="/schools/central-mich" class="school">Central Mich.</a></td>
+                      <td>32</td>
+                      <td>1162</td>
+                      <td>36.3</td>
+                      <td>1206</td>
+                      <td>37.7</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/elon.svg"><a href="/schools/elon" class="school">Elon</a></td>
+                      <td>32</td>
+                      <td>1082</td>
+                      <td>33.8</td>
+                      <td>1126</td>
+                      <td>35.2</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/southern-u.svg"><a href="/schools/southern-u" class="school">Southern U.</a></td>
+                      <td>32</td>
+                      <td>1020</td>
+                      <td>31.9</td>
+                      <td>1064</td>
+                      <td>33.2</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>261</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/northern-ky.svg"><a href="/schools/northern-ky" class="school">Northern Ky.</a></td>
+                      <td>33</td>
+                      <td>1141</td>
+                      <td>34.6</td>
+                      <td>1187</td>
+                      <td>36.0</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>262</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/middle-tenn.svg"><a href="/schools/middle-tenn" class="school">Middle Tenn.</a></td>
+                      <td>33</td>
+                      <td>1147</td>
+                      <td>34.8</td>
+                      <td>1194</td>
+                      <td>36.2</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>263</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/new-hampshire.svg"><a href="/schools/new-hampshire" class="school">New Hampshire</a></td>
+                      <td>31</td>
+                      <td>1160</td>
+                      <td>37.4</td>
+                      <td>1205</td>
+                      <td>38.9</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>264</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/saint-louis.svg"><a href="/schools/saint-louis" class="school">Saint Louis</a></td>
+                      <td>33</td>
+                      <td>1107</td>
+                      <td>33.5</td>
+                      <td>1155</td>
+                      <td>35.0</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>265</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/dartmouth.svg"><a href="/schools/dartmouth" class="school">Dartmouth</a></td>
+                      <td>27</td>
+                      <td>898</td>
+                      <td>33.3</td>
+                      <td>938</td>
+                      <td>34.7</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>266</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/iowa.svg"><a href="/schools/iowa" class="school">Iowa</a></td>
+                      <td>32</td>
+                      <td>1133</td>
+                      <td>35.4</td>
+                      <td>1181</td>
+                      <td>36.9</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>267</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/new-mexico-st.svg"><a href="/schools/new-mexico-st" class="school">New Mexico St.</a></td>
+                      <td>32</td>
+                      <td>1079</td>
+                      <td>33.7</td>
+                      <td>1128</td>
+                      <td>35.2</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>268</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/nicholls-st.svg"><a href="/schools/nicholls-st" class="school">Nicholls</a></td>
+                      <td>34</td>
+                      <td>1199</td>
+                      <td>35.3</td>
+                      <td>1252</td>
+                      <td>36.8</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>269</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/monmouth.svg"><a href="/schools/monmouth" class="school">Monmouth</a></td>
+                      <td>33</td>
+                      <td>1167</td>
+                      <td>35.4</td>
+                      <td>1219</td>
+                      <td>36.9</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>270</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/lipscomb.svg"><a href="/schools/lipscomb" class="school">Lipscomb</a></td>
+                      <td>32</td>
+                      <td>1064</td>
+                      <td>33.2</td>
+                      <td>1115</td>
+                      <td>34.8</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/oregon-st.svg"><a href="/schools/oregon-st" class="school">Oregon St.</a></td>
+                      <td>32</td>
+                      <td>1041</td>
+                      <td>32.5</td>
+                      <td>1092</td>
+                      <td>34.1</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>272</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/virginia.svg"><a href="/schools/virginia" class="school">Virginia</a></td>
+                      <td>33</td>
+                      <td>1083</td>
+                      <td>32.8</td>
+                      <td>1138</td>
+                      <td>34.5</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>273</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/arkansas.svg"><a href="/schools/arkansas" class="school">Arkansas</a></td>
+                      <td>33</td>
+                      <td>1139</td>
+                      <td>34.5</td>
+                      <td>1200</td>
+                      <td>36.4</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/bethune-cookman.svg"><a href="/schools/bethune-cookman" class="school">Bethune-Cookman</a></td>
+                      <td>33</td>
+                      <td>1111</td>
+                      <td>33.7</td>
+                      <td>1172</td>
+                      <td>35.5</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>275</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/buffalo.svg"><a href="/schools/buffalo" class="school">Buffalo</a></td>
+                      <td>31</td>
+                      <td>1082</td>
+                      <td>34.9</td>
+                      <td>1140</td>
+                      <td>36.8</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>276</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/morgan-st.svg"><a href="/schools/morgan-st" class="school">Morgan St.</a></td>
+                      <td>31</td>
+                      <td>1099</td>
+                      <td>35.5</td>
+                      <td>1159</td>
+                      <td>37.4</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/eastern-mich.svg"><a href="/schools/eastern-mich" class="school">Eastern Mich.</a></td>
+                      <td>31</td>
+                      <td>1069</td>
+                      <td>34.5</td>
+                      <td>1129</td>
+                      <td>36.4</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>278</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/belmont.svg"><a href="/schools/belmont" class="school">Belmont</a></td>
+                      <td>33</td>
+                      <td>1130</td>
+                      <td>34.2</td>
+                      <td>1194</td>
+                      <td>36.2</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>279</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/florida-am.svg"><a href="/schools/florida-am" class="school">Florida A&amp;M</a></td>
+                      <td>29</td>
+                      <td>1002</td>
+                      <td>34.6</td>
+                      <td>1059</td>
+                      <td>36.5</td>
+                      <td>-1</td>
+                  </tr>
+              <tr role="row">
+                      <td>280</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/southern-california.svg"><a href="/schools/southern-california" class="school">Southern California</a></td>
+                      <td>33</td>
+                      <td>1123</td>
+                      <td>34.0</td>
+                      <td>1189</td>
+                      <td>36.0</td>
+                      <td>-2</td>
+                  </tr>
+              <tr role="row">
+                      <td>281</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/harvard.svg"><a href="/schools/harvard" class="school">Harvard</a></td>
+                      <td>27</td>
+                      <td>941</td>
+                      <td>34.9</td>
+                      <td>996</td>
+                      <td>36.9</td>
+                      <td>-2</td>
+                  </tr>
+              <tr role="row">
+                      <td>282</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/west-virginia.svg"><a href="/schools/west-virginia" class="school">West Virginia</a></td>
+                      <td>32</td>
+                      <td>1080</td>
+                      <td>33.8</td>
+                      <td>1147</td>
+                      <td>35.8</td>
+                      <td>-2</td>
+                  </tr>
+              <tr role="row">
+                      <td>283</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/north-florida.svg"><a href="/schools/north-florida" class="school">North Florida</a></td>
+                      <td>32</td>
+                      <td>1076</td>
+                      <td>33.6</td>
+                      <td>1144</td>
+                      <td>35.8</td>
+                      <td>-2</td>
+                  </tr>
+              <tr role="row">
+                      <td>284</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/northwestern.svg"><a href="/schools/northwestern" class="school">Northwestern</a></td>
+                      <td>32</td>
+                      <td>997</td>
+                      <td>31.2</td>
+                      <td>1066</td>
+                      <td>33.3</td>
+                      <td>-2</td>
+                  </tr>
+              <tr role="row">
+                      <td>285</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/georgia.svg"><a href="/schools/georgia" class="school">Georgia</a></td>
+                      <td>33</td>
+                      <td>1175</td>
+                      <td>35.6</td>
+                      <td>1247</td>
+                      <td>37.8</td>
+                      <td>-2</td>
+                  </tr>
+              <tr role="row">
+                      <td>286</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/md-east-shore.svg"><a href="/schools/md-east-shore" class="school">UMES</a></td>
+                      <td>29</td>
+                      <td>1014</td>
+                      <td>35.0</td>
+                      <td>1079</td>
+                      <td>37.2</td>
+                      <td>-2</td>
+                  </tr>
+              <tr role="row">
+                      <td>287</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/campbell.svg"><a href="/schools/campbell" class="school">Campbell</a></td>
+                      <td>32</td>
+                      <td>1040</td>
+                      <td>32.5</td>
+                      <td>1112</td>
+                      <td>34.8</td>
+                      <td>-2</td>
+                  </tr>
+              <tr role="row">
+                      <td>288</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/idaho.svg"><a href="/schools/idaho" class="school">Idaho</a></td>
+                      <td>32</td>
+                      <td>1010</td>
+                      <td>31.6</td>
+                      <td>1085</td>
+                      <td>33.9</td>
+                      <td>-2</td>
+                  </tr>
+              <tr role="row">
+                      <td>289</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/portland.svg"><a href="/schools/portland" class="school">Portland</a></td>
+                      <td>33</td>
+                      <td>1112</td>
+                      <td>33.7</td>
+                      <td>1193</td>
+                      <td>36.2</td>
+                      <td>-2</td>
+                  </tr>
+              <tr role="row">
+                      <td>290</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/rutgers.svg"><a href="/schools/rutgers" class="school">Rutgers</a></td>
+                      <td>32</td>
+                      <td>1188</td>
+                      <td>37.1</td>
+                      <td>1267</td>
+                      <td>39.6</td>
+                      <td>-2</td>
+                  </tr>
+              <tr role="row">
+                      <td>291</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/vmi.svg"><a href="/schools/vmi" class="school">VMI</a></td>
+                      <td>32</td>
+                      <td>1170</td>
+                      <td>36.6</td>
+                      <td>1250</td>
+                      <td>39.1</td>
+                      <td>-2</td>
+                  </tr>
+              <tr role="row">
+                      <td>292</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/hofstra.svg"><a href="/schools/hofstra" class="school">Hofstra</a></td>
+                      <td>33</td>
+                      <td>1081</td>
+                      <td>32.8</td>
+                      <td>1164</td>
+                      <td>35.3</td>
+                      <td>-2</td>
+                  </tr>
+              <tr role="row">
+                      <td>293</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/umbc.svg"><a href="/schools/umbc" class="school">UMBC</a></td>
+                      <td>32</td>
+                      <td>1179</td>
+                      <td>36.8</td>
+                      <td>1260</td>
+                      <td>39.4</td>
+                      <td>-2</td>
+                  </tr>
+              <tr role="row">
+                      <td>294</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/fairleigh-dickinson.svg"><a href="/schools/fairleigh-dickinson" class="school">FDU</a></td>
+                      <td>32</td>
+                      <td>1191</td>
+                      <td>37.2</td>
+                      <td>1275</td>
+                      <td>39.8</td>
+                      <td>-2</td>
+                  </tr>
+              <tr role="row">
+                      <td>295</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/temple.svg"><a href="/schools/temple" class="school">Temple</a></td>
+                      <td>36</td>
+                      <td>1304</td>
+                      <td>36.2</td>
+                      <td>1400</td>
+                      <td>38.9</td>
+                      <td>-2</td>
+                  </tr>
+              <tr role="row">
+                      <td>296</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/tulsa.svg"><a href="/schools/tulsa" class="school">Tulsa</a></td>
+                      <td>31</td>
+                      <td>1091</td>
+                      <td>35.2</td>
+                      <td>1175</td>
+                      <td>37.9</td>
+                      <td>-2</td>
+                  </tr>
+              <tr role="row">
+                      <td>297</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/vanderbilt.svg"><a href="/schools/vanderbilt" class="school">Vanderbilt</a></td>
+                      <td>32</td>
+                      <td>1102</td>
+                      <td>34.4</td>
+                      <td>1189</td>
+                      <td>37.2</td>
+                      <td>-2</td>
+                  </tr>
+              <tr role="row">
+                      <td>298</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/holy-cross.svg"><a href="/schools/holy-cross" class="school">Holy Cross</a></td>
+                      <td>33</td>
+                      <td>1079</td>
+                      <td>32.7</td>
+                      <td>1170</td>
+                      <td>35.5</td>
+                      <td>-2</td>
+                  </tr>
+              <tr role="row">
+                      <td>299</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/cal-st-fullerton.svg"><a href="/schools/cal-st-fullerton" class="school">Cal St. Fullerton</a></td>
+                      <td>32</td>
+                      <td>1048</td>
+                      <td>32.8</td>
+                      <td>1137</td>
+                      <td>35.5</td>
+                      <td>-2</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/maine.svg"><a href="/schools/maine" class="school">Maine</a></td>
+                      <td>32</td>
+                      <td>1044</td>
+                      <td>32.6</td>
+                      <td>1133</td>
+                      <td>35.4</td>
+                      <td>-2</td>
+                  </tr>
+          </tbody>
+<tbody aria-live="polite" aria-relevant="all">
+              <tr role="row">
+                      <td>301</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/marquette.svg"><a href="/schools/marquette" class="school">Marquette</a></td>
+                      <td>34</td>
+                      <td>1115</td>
+                      <td>32.8</td>
+                      <td>1210</td>
+                      <td>35.6</td>
+                      <td>-2</td>
+                  </tr>
+              <tr role="row">
+                      <td>302</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/la-salle.svg"><a href="/schools/la-salle" class="school">La Salle</a></td>
+                      <td>33</td>
+                      <td>1142</td>
+                      <td>34.6</td>
+                      <td>1235</td>
+                      <td>37.4</td>
+                      <td>-2</td>
+                  </tr>
+              <tr role="row">
+                      <td>303</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/long-island.svg"><a href="/schools/long-island" class="school">LIU</a></td>
+                      <td>29</td>
+                      <td>1014</td>
+                      <td>35.0</td>
+                      <td>1097</td>
+                      <td>37.8</td>
+                      <td>-2</td>
+                  </tr>
+              <tr role="row">
+                      <td>304</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/njit.svg"><a href="/schools/njit" class="school">NJIT</a></td>
+                      <td>28</td>
+                      <td>972</td>
+                      <td>34.7</td>
+                      <td>1059</td>
+                      <td>37.8</td>
+                      <td>-3</td>
+                  </tr>
+              <tr role="row">
+                      <td>305</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/abilene-christian.svg"><a href="/schools/abilene-christian" class="school">Abilene Christian</a></td>
+                      <td>32</td>
+                      <td>1070</td>
+                      <td>33.4</td>
+                      <td>1171</td>
+                      <td>36.6</td>
+                      <td>-3</td>
+                  </tr>
+              <tr role="row">
+                      <td>306</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/ill-chicago.svg"><a href="/schools/ill-chicago" class="school">UIC</a></td>
+                      <td>33</td>
+                      <td>1110</td>
+                      <td>33.6</td>
+                      <td>1216</td>
+                      <td>36.8</td>
+                      <td>-3</td>
+                  </tr>
+              <tr role="row">
+                      <td>307</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/northwestern-st.svg"><a href="/schools/northwestern-st" class="school">Northwestern St.</a></td>
+                      <td>32</td>
+                      <td>1107</td>
+                      <td>34.6</td>
+                      <td>1212</td>
+                      <td>37.9</td>
+                      <td>-3</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/miami-oh.svg"><a href="/schools/miami-oh" class="school">Miami (OH)</a></td>
+                      <td>32</td>
+                      <td>1063</td>
+                      <td>33.2</td>
+                      <td>1168</td>
+                      <td>36.5</td>
+                      <td>-3</td>
+                  </tr>
+              <tr role="row">
+                      <td>309</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/san-diego.svg"><a href="/schools/san-diego" class="school">San Diego</a></td>
+                      <td>33</td>
+                      <td>1128</td>
+                      <td>34.2</td>
+                      <td>1237</td>
+                      <td>37.5</td>
+                      <td>-3</td>
+                  </tr>
+              <tr role="row">
+                      <td>310</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/fresno-st.svg"><a href="/schools/fresno-st" class="school">Fresno St.</a></td>
+                      <td>33</td>
+                      <td>1043</td>
+                      <td>31.6</td>
+                      <td>1154</td>
+                      <td>35.0</td>
+                      <td>-3</td>
+                  </tr>
+              <tr role="row">
+                      <td>311</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/sacred-heart.svg"><a href="/schools/sacred-heart" class="school">Sacred Heart</a></td>
+                      <td>32</td>
+                      <td>1079</td>
+                      <td>33.7</td>
+                      <td>1187</td>
+                      <td>37.1</td>
+                      <td>-3</td>
+                  </tr>
+              <tr role="row">
+                      <td>312</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/florida-st.svg"><a href="/schools/florida-st" class="school">Florida St.</a></td>
+                      <td>33</td>
+                      <td>1098</td>
+                      <td>33.3</td>
+                      <td>1214</td>
+                      <td>36.8</td>
+                      <td>-3</td>
+                  </tr>
+              <tr role="row">
+                      <td>313</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/southern-utah.svg"><a href="/schools/southern-utah" class="school">Southern Utah</a></td>
+                      <td>31</td>
+                      <td>1049</td>
+                      <td>33.8</td>
+                      <td>1158</td>
+                      <td>37.4</td>
+                      <td>-3</td>
+                  </tr>
+              <tr role="row">
+                      <td>314</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/ole-miss.svg"><a href="/schools/ole-miss" class="school">Ole Miss</a></td>
+                      <td>32</td>
+                      <td>1071</td>
+                      <td>33.5</td>
+                      <td>1186</td>
+                      <td>37.1</td>
+                      <td>-3</td>
+                  </tr>
+              <tr role="row">
+                      <td>315</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/ark-pine-bluff.svg"><a href="/schools/ark-pine-bluff" class="school">Ark.-Pine Bluff</a></td>
+                      <td>31</td>
+                      <td>1073</td>
+                      <td>34.6</td>
+                      <td>1188</td>
+                      <td>38.3</td>
+                      <td>-3</td>
+                  </tr>
+              <tr role="row">
+                      <td>316</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/lafayette.svg"><a href="/schools/lafayette" class="school">Lafayette</a></td>
+                      <td>32</td>
+                      <td>1064</td>
+                      <td>33.2</td>
+                      <td>1184</td>
+                      <td>37.0</td>
+                      <td>-3</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/iupui.svg"><a href="/schools/iupui" class="school">IUPUI</a></td>
+                      <td>32</td>
+                      <td>944</td>
+                      <td>29.5</td>
+                      <td>1064</td>
+                      <td>33.2</td>
+                      <td>-3</td>
+                  </tr>
+              <tr role="row">
+                      <td>318</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/ga-southern.svg"><a href="/schools/ga-southern" class="school">Ga. Southern</a></td>
+                      <td>33</td>
+                      <td>1130</td>
+                      <td>34.2</td>
+                      <td>1258</td>
+                      <td>38.1</td>
+                      <td>-3</td>
+                  </tr>
+              <tr role="row">
+                      <td>319</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/iona.svg"><a href="/schools/iona" class="school">Iona</a></td>
+                      <td>33</td>
+                      <td>1051</td>
+                      <td>31.8</td>
+                      <td>1189</td>
+                      <td>36.0</td>
+                      <td>-4</td>
+                  </tr>
+              <tr role="row">
+                      <td>320</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/richmond.svg"><a href="/schools/richmond" class="school">Richmond</a></td>
+                      <td>32</td>
+                      <td>1052</td>
+                      <td>32.9</td>
+                      <td>1187</td>
+                      <td>37.1</td>
+                      <td>-4</td>
+                  </tr>
+              <tr role="row">
+                      <td>321</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/syracuse.svg"><a href="/schools/syracuse" class="school">Syracuse</a></td>
+                      <td>32</td>
+                      <td>1064</td>
+                      <td>33.2</td>
+                      <td>1203</td>
+                      <td>37.6</td>
+                      <td>-4</td>
+                  </tr>
+              <tr role="row">
+                      <td>322</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/southeast-mo-st.svg"><a href="/schools/southeast-mo-st" class="school">Southeast Mo. St.</a></td>
+                      <td>31</td>
+                      <td>984</td>
+                      <td>31.7</td>
+                      <td>1120</td>
+                      <td>36.1</td>
+                      <td>-4</td>
+                  </tr>
+              <tr role="row">
+                      <td>323</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/montana-st.svg"><a href="/schools/montana-st" class="school">Montana St.</a></td>
+                      <td>34</td>
+                      <td>1041</td>
+                      <td>30.6</td>
+                      <td>1192</td>
+                      <td>35.1</td>
+                      <td>-4</td>
+                  </tr>
+              <tr role="row">
+                      <td>324</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/penn-st.svg"><a href="/schools/penn-st" class="school">Penn St.</a></td>
+                      <td>33</td>
+                      <td>1065</td>
+                      <td>32.3</td>
+                      <td>1218</td>
+                      <td>36.9</td>
+                      <td>-4</td>
+                  </tr>
+              <tr role="row">
+                      <td>325</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/air-force.svg"><a href="/schools/air-force" class="school">Air Force</a></td>
+                      <td>31</td>
+                      <td>872</td>
+                      <td>28.1</td>
+                      <td>1016</td>
+                      <td>32.8</td>
+                      <td>-4</td>
+                  </tr>
+              <tr role="row">
+                      <td>326</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/bryant.svg"><a href="/schools/bryant" class="school">Bryant</a></td>
+                      <td>33</td>
+                      <td>1246</td>
+                      <td>37.8</td>
+                      <td>1401</td>
+                      <td>42.5</td>
+                      <td>-4</td>
+                  </tr>
+              <tr role="row">
+                      <td>327</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/ipfw.svg"><a href="/schools/ipfw" class="school">Purdue Fort Wayne</a></td>
+                      <td>33</td>
+                      <td>1066</td>
+                      <td>32.3</td>
+                      <td>1226</td>
+                      <td>37.2</td>
+                      <td>-4</td>
+                  </tr>
+              <tr role="row">
+                      <td>328</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/manhattan.svg"><a href="/schools/manhattan" class="school">Manhattan</a></td>
+                      <td>30</td>
+                      <td>989</td>
+                      <td>33.0</td>
+                      <td>1139</td>
+                      <td>38.0</td>
+                      <td>-5</td>
+                  </tr>
+              <tr role="row">
+                      <td>329</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/old-dominion.svg"><a href="/schools/old-dominion" class="school">Old Dominion</a></td>
+                      <td>32</td>
+                      <td>1134</td>
+                      <td>35.4</td>
+                      <td>1295</td>
+                      <td>40.5</td>
+                      <td>-5</td>
+                  </tr>
+              <tr role="row">
+                      <td>-</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/san-jose-st.svg"><a href="/schools/san-jose-st" class="school">San Jose St.</a></td>
+                      <td>32</td>
+                      <td>986</td>
+                      <td>30.8</td>
+                      <td>1147</td>
+                      <td>35.8</td>
+                      <td>-5</td>
+                  </tr>
+              <tr role="row">
+                      <td>331</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/tennessee-tech.svg"><a href="/schools/tennessee-tech" class="school">Tennessee Tech</a></td>
+                      <td>31</td>
+                      <td>957</td>
+                      <td>30.9</td>
+                      <td>1113</td>
+                      <td>35.9</td>
+                      <td>-5</td>
+                  </tr>
+              <tr role="row">
+                      <td>332</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/northern-ariz.svg"><a href="/schools/northern-ariz" class="school">Northern Ariz.</a></td>
+                      <td>33</td>
+                      <td>1034</td>
+                      <td>31.3</td>
+                      <td>1207</td>
+                      <td>36.6</td>
+                      <td>-5</td>
+                  </tr>
+              <tr role="row">
+                      <td>333</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/valparaiso.svg"><a href="/schools/valparaiso" class="school">Valparaiso</a></td>
+                      <td>32</td>
+                      <td>1064</td>
+                      <td>33.2</td>
+                      <td>1233</td>
+                      <td>38.5</td>
+                      <td>-5</td>
+                  </tr>
+              <tr role="row">
+                      <td>334</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/new-orleans.svg"><a href="/schools/new-orleans" class="school">New Orleans</a></td>
+                      <td>33</td>
+                      <td>1139</td>
+                      <td>34.5</td>
+                      <td>1314</td>
+                      <td>39.8</td>
+                      <td>-5</td>
+                  </tr>
+              <tr role="row">
+                      <td>335</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/oral-roberts.svg"><a href="/schools/oral-roberts" class="school">Oral Roberts</a></td>
+                      <td>31</td>
+                      <td>1022</td>
+                      <td>33.0</td>
+                      <td>1188</td>
+                      <td>38.3</td>
+                      <td>-5</td>
+                  </tr>
+              <tr role="row">
+                      <td>336</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/south-ala.svg"><a href="/schools/south-ala" class="school">South Alabama</a></td>
+                      <td>32</td>
+                      <td>1057</td>
+                      <td>33.0</td>
+                      <td>1238</td>
+                      <td>38.7</td>
+                      <td>-5</td>
+                  </tr>
+              <tr role="row">
+                      <td>337</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/utrgv.svg"><a href="/schools/utrgv" class="school">UTRGV</a></td>
+                      <td>31</td>
+                      <td>1037</td>
+                      <td>33.5</td>
+                      <td>1223</td>
+                      <td>39.5</td>
+                      <td>-6</td>
+                  </tr>
+              <tr role="row">
+                      <td>338</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/missouri.svg"><a href="/schools/missouri" class="school">Missouri</a></td>
+                      <td>32</td>
+                      <td>992</td>
+                      <td>31.0</td>
+                      <td>1188</td>
+                      <td>37.1</td>
+                      <td>-6</td>
+                  </tr>
+              <tr role="row">
+                      <td>339</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/tulane.svg"><a href="/schools/tulane" class="school">Tulane</a></td>
+                      <td>31</td>
+                      <td>1030</td>
+                      <td>33.2</td>
+                      <td>1222</td>
+                      <td>39.4</td>
+                      <td>-6</td>
+                  </tr>
+              <tr role="row">
+                      <td>340</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/usc-upstate.svg"><a href="/schools/usc-upstate" class="school">USC Upstate</a></td>
+                      <td>30</td>
+                      <td>950</td>
+                      <td>31.7</td>
+                      <td>1138</td>
+                      <td>37.9</td>
+                      <td>-6</td>
+                  </tr>
+              <tr role="row">
+                      <td>341</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/mississippi-val.svg"><a href="/schools/mississippi-val" class="school">Mississippi Val.</a></td>
+                      <td>31</td>
+                      <td>911</td>
+                      <td>29.4</td>
+                      <td>1111</td>
+                      <td>35.8</td>
+                      <td>-6</td>
+                  </tr>
+              <tr role="row">
+                      <td>342</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/prairie-view.svg"><a href="/schools/prairie-view" class="school">Prairie View</a></td>
+                      <td>31</td>
+                      <td>952</td>
+                      <td>30.7</td>
+                      <td>1155</td>
+                      <td>37.3</td>
+                      <td>-6</td>
+                  </tr>
+              <tr role="row">
+                      <td>343</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/merrimack.svg"><a href="/schools/merrimack" class="school">Merrimack</a></td>
+                      <td>33</td>
+                      <td>1034</td>
+                      <td>31.3</td>
+                      <td>1252</td>
+                      <td>37.9</td>
+                      <td>-6</td>
+                  </tr>
+              <tr role="row">
+                      <td>344</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/depaul.svg"><a href="/schools/depaul" class="school">DePaul</a></td>
+                      <td>32</td>
+                      <td>951</td>
+                      <td>29.7</td>
+                      <td>1169</td>
+                      <td>36.5</td>
+                      <td>-6</td>
+                  </tr>
+              <tr role="row">
+                      <td>345</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/detroit.svg"><a href="/schools/detroit" class="school">Detroit Mercy</a></td>
+                      <td>32</td>
+                      <td>945</td>
+                      <td>29.5</td>
+                      <td>1172</td>
+                      <td>36.6</td>
+                      <td>-7</td>
+                  </tr>
+              <tr role="row">
+                      <td>346</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/fiu.svg"><a href="/schools/fiu" class="school">FIU</a></td>
+                      <td>33</td>
+                      <td>1044</td>
+                      <td>31.6</td>
+                      <td>1281</td>
+                      <td>38.8</td>
+                      <td>-7</td>
+                  </tr>
+              <tr role="row">
+                      <td>347</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/cal-poly.svg"><a href="/schools/cal-poly" class="school">Cal Poly</a></td>
+                      <td>32</td>
+                      <td>1000</td>
+                      <td>31.2</td>
+                      <td>1232</td>
+                      <td>38.5</td>
+                      <td>-7</td>
+                  </tr>
+              <tr role="row">
+                      <td>348</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/arizona-st.svg"><a href="/schools/arizona-st" class="school">Arizona St.</a></td>
+                      <td>32</td>
+                      <td>1064</td>
+                      <td>33.2</td>
+                      <td>1298</td>
+                      <td>40.6</td>
+                      <td>-7</td>
+                  </tr>
+              <tr role="row">
+                      <td>349</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/nc-at.svg"><a href="/schools/nc-at" class="school">N.C. A&amp;T</a></td>
+                      <td>32</td>
+                      <td>1020</td>
+                      <td>31.9</td>
+                      <td>1306</td>
+                      <td>40.8</td>
+                      <td>-8</td>
+                  </tr>
+              <tr role="row">
+                      <td>350</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/coppin-st.svg"><a href="/schools/coppin-st" class="school">Coppin St.</a></td>
+                      <td>29</td>
+                      <td>873</td>
+                      <td>30.1</td>
+                      <td>1135</td>
+                      <td>39.1</td>
+                      <td>-9</td>
+                  </tr>
+          </tbody>
+<tbody aria-live="polite" aria-relevant="all">
+              <tr role="row">
+                      <td>351</td>
+                      <td><img src="https://www.ncaa.com/sites/default/files/images/logos/schools/bgl/pacific.svg"><a href="/schools/pacific" class="school">Pacific</a></td>
+                      <td>32</td>
+                      <td>875</td>
+                      <td>27.3</td>
+                      <td>1213</td>
+                      <td>37.9</td>
+                      <td>-10</td>
+                  </tr>
+          </tbody>
